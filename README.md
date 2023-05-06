@@ -7,7 +7,6 @@
 - [Описание](#описание)
 - [Технологии](#технологии)
 - [Проекты](#проекты)
-- [1. Classification](#сlassification)
 
 ### Авторы
 
@@ -32,8 +31,13 @@
 ## Проекты
 
   [1. Classification](#сlassification)
-  [2. Classification](#сlassification)
+  
+  [2. Loss_function_and_optimization](#loss_function_and_optimization)
   
 ### Classification
   
+
+### Loss_function_and_optimization
+
+    
   
