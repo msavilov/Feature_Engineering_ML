@@ -35,7 +35,7 @@
 Целевая переменная – уровень дохода income, который принимает два значения <=50K и >50K, поэтому классификация бинарная. Остальные признаки описывают персональную информацию – возраст, образование, семейное положение и т. д.
 Задачу классификации нужно решить при помощи обучения модели логистической регрессии и модели опорных векторов.
 
-  [Решение]([#сlassification](https://github.com/msavilov/Feature_Engineering_ML/blob/main/1_Classification/classification.ipynb))
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/1_Classification/classification.ipynb)
  
 ### Loss_function_and_optimization
 
