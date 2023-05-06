@@ -29,7 +29,6 @@
 
 - ![](https://img.shields.io/badge/matplotlib-blue)
 
-
-##Список проектов
+###Список проектов
 
 ###Classification
