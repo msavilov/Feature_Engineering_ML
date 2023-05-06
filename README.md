@@ -6,8 +6,8 @@
   - [Автор](#авторы)
   - [Описание](#описание)
   - [Технологии](#технологии)
-  - [Список проектов](#Список проектов)
-  - [1. Classification](#Classification)
+  - [Проекты](#проекты)
+  - [1. Classification](#сlassification)
 
 ### Авторы
 
@@ -29,6 +29,6 @@
 
 - ![](https://img.shields.io/badge/matplotlib-blue)
 
-###Список проектов
+###Проекты
 
 ###Classification
