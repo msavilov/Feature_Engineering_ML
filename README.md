@@ -31,8 +31,12 @@
   [2. Loss_function_and_optimization](#loss_function_and_optimization)
   
 ### Classification
-  
+  Решение задачи классификации физических лиц по уровню дохода. Данные для обучения модели хранятся в файле adult.csv.
+Целевая переменная – уровень дохода income, который принимает два значения <=50K и >50K, поэтому классификация бинарная. Остальные признаки описывают персональную информацию – возраст, образование, семейное положение и т. д.
+Задачу классификации нужно решить при помощи обучения модели логистической регрессии и модели опорных векторов.
 
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/1_Classification/classification.ipynb)
+ 
 ### Loss_function_and_optimization
 
     
