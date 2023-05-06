@@ -2,12 +2,12 @@
 
 ## Оглавление
 
-  - [Оглавление](#оглавление)
-  - [Автор](#авторы)
-  - [Описание](#описание)
-  - [Технологии](#технологии)
-  - [Проекты](#проекты)
-  - [1. Classification](#сlassification)
+- [Оглавление](#оглавление)
+- [Автор](#авторы)
+- [Описание](#описание)
+- [Технологии](#технологии)
+- [Проекты](#проекты)
+- [1. Classification](#сlassification)
 
 ### Авторы
 
@@ -29,10 +29,11 @@
 
 - ![](https://img.shields.io/badge/matplotlib-blue)
 
-###Проекты
+## Проекты
 
-  - [1. Classification](#сlassification)
+  [1. Classification](#сlassification)
+  [2. Classification](#сlassification)
   
-###Classification
+### Classification
   
   
