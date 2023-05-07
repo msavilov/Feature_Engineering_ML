@@ -38,6 +38,9 @@
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/1_Classification/classification.ipynb)
  
 ### Loss_function_and_optimization
+  Используйте датасет с ирисами. В данных оставьте только 2 класса: Iris Versicolor, Iris Virginica. Реализуйте логистическую регрессию, без использования метода LogisticRegression из библиотеки. Можно использовать библиотеки pandas, numpy, math для реализации. Оформите в виде функции. 
+Реализуйте метод градиентного спуска, Root Mean Square Propagation, Nesterov–accelerated Adaptive Moment Estimation. Обучить модели этим методом. Выбрать и посчитайте метрику качества. Метрики должна быть одинакова для всех пунктов задания. Напишите вывод.
 
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/2_Loss_function_and_optimization/loss_function_and_optimization.ipynb)
     
   
