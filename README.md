@@ -30,7 +30,7 @@
   
   [2. Loss_function_and_optimization](#loss_function_and_optimization)
   
-  [3. Metrics_and_Model_selection] (#metrics_and_model_selection)
+  [3. Metrics_and_Model_selection](#metrics_and_model_selection)
   
 ### Classification
   Решение задачи классификации физических лиц по уровню дохода. Данные для обучения модели хранятся в файле adult.csv.
