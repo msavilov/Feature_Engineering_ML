@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
 ![](https://img.shields.io/badge/matplotlib-blue)
+![](https://img.shields.io/badge/seaborn-blue)
 
 ## Проекты
 
