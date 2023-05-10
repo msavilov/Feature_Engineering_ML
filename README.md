@@ -36,6 +36,8 @@
   
   [5. Work_with_variables](#work_with_variables)
   
+  [6. Decision_trees](#decision_trees)
+  
 ### Classification
   Решение задачи классификации физических лиц по уровню дохода. Данные для обучения модели хранятся в файле adult.csv.
 Целевая переменная – уровень дохода income, который принимает два значения <=50K и >50K, поэтому классификация бинарная. Остальные признаки описывают персональную информацию – возраст, образование, семейное положение и т. д.
@@ -64,3 +66,9 @@
   Проработать улучшение метрики RMSE, R2 модели линейной регрессии путем работы с данными, а именно проведения разведочного анализа данных. В качестве датасета необходимо загрузить данные о недвижимости Калифорнии из библиотеки sklearn.datasets. Целевая переменная – MedHouseVal.
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/5_Work_with_variables/work_with_variables.ipynb)
+  
+### Decision_trees
+
+  Решить задачу регрессии используя деревья решений. В качестве датасета необходимо взять данные о недвижимости Калифорнии из библиотеки sklearn.datasets. Целевая переменная – MedHouseVal
+  
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/6_Decision_trees/decision_trees.ipynb)
