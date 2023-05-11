@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
 ![](https://img.shields.io/badge/matplotlib-blue)
+![](https://img.shields.io/badge/seaborn-blue)
 
 ## Проекты
 
@@ -38,37 +39,44 @@
   
   [6. Decision_trees](#decision_trees)
   
-### Classification
+  [7. Work_with_outliers](#work_with_outliers)
+  
+### 1. Classification
   Решение задачи классификации физических лиц по уровню дохода. Данные для обучения модели хранятся в файле adult.csv.
 Целевая переменная – уровень дохода income, который принимает два значения <=50K и >50K, поэтому классификация бинарная. Остальные признаки описывают персональную информацию – возраст, образование, семейное положение и т. д.
 Задачу классификации нужно решить при помощи обучения модели логистической регрессии и модели опорных векторов.
 
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/1_Classification/classification.ipynb)
  
-### Loss_function_and_optimization
+### 2. Loss_function_and_optimization
   Используйте датасет с ирисами. В данных оставьте только 2 класса: Iris Versicolor, Iris Virginica. Реализуйте логистическую регрессию, без использования метода LogisticRegression из библиотеки. Можно использовать библиотеки pandas, numpy, math для реализации. Оформите в виде функции. 
 Реализуйте метод градиентного спуска, Root Mean Square Propagation, Nesterov–accelerated Adaptive Moment Estimation. Обучить модели этим методом. Выбрать и посчитайте метрику качества. Метрики должна быть одинакова для всех пунктов задания. Напишите вывод.
 
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/2_Loss_function_and_optimization/loss_function_and_optimization.ipynb)
     
-### Metrics_and_Model_selection
+### 3. Metrics_and_Model_selection
   Решить задачу классификации при помощи обучения модели логистической регрессии. Качество модели оценивается путем подсчета метрик TPR, FPR и построения графиков ROC-кривой, Precision-Recall.
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/3_Metrics_and_Model_selection/metrics_and_model_selection.ipynb)
 
-### Data_problems
+### 4. Data_problems
   Решить задачу по очистке данных на примере датасета с информацией о пассажирах корабля Титаник. На данных обучить модель классификации, с целевым признаком Survived (1 – пассажир выжил, 0 – погиб). Обучить модели на необработанных и обработанных данных, посчитать и сравнить метрики качества этих моделей.
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/4_Data_problems/data_problems.ipynb)
  
-### Work_with_variables
+### 5. Work_with_variables
 
   Проработать улучшение метрики RMSE, R2 модели линейной регрессии путем работы с данными, а именно проведения разведочного анализа данных. В качестве датасета необходимо загрузить данные о недвижимости Калифорнии из библиотеки sklearn.datasets. Целевая переменная – MedHouseVal.
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/5_Work_with_variables/work_with_variables.ipynb)
   
-### Decision_trees
+### 6. Decision_trees
 
   Решить задачу регрессии используя деревья решений. В качестве датасета необходимо взять данные о недвижимости Калифорнии из библиотеки sklearn.datasets. Целевая переменная – MedHouseVal
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/6_Decision_trees/decision_trees.ipynb)
+  
+### 7. Work_with_outliers
+  
+  Решить задачу классификации типа стекол. Данные для обучения моделей можно скачать с [сайта](https://www.kaggle.com/datasets/uciml/glass). Целевая переменная – тип стекла «Type»
+
