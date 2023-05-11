@@ -27,7 +27,7 @@
 
 ## Проекты
 
-  [1. Classification](#сlassification)
+  [1. Classification](#classification)
   
   [2. Loss_function_and_optimization](#loss_function_and_optimization)
   
