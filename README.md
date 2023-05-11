@@ -79,4 +79,5 @@
 ### 7. Work_with_outliers
   
   Решить задачу классификации типа стекол. Данные для обучения моделей можно скачать с [сайта](https://www.kaggle.com/datasets/uciml/glass). Целевая переменная – тип стекла «Type»
-
+  
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/7_Work_with_outliers/work_with_outliers.ipynb)
