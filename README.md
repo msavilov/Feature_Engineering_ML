@@ -45,6 +45,10 @@
   
   [9. Ensemble_methods](#ensemble_methods)
   
+  [10. Сlustering](#clustering)
+  
+  [11. Cross-validation](#cross-validation)
+  
 ### Classification
   Решение задачи классификации физических лиц по уровню дохода. Данные для обучения модели хранятся в файле adult.csv.
 Целевая переменная – уровень дохода income, который принимает два значения <=50K и >50K, поэтому классификация бинарная. Остальные признаки описывают персональную информацию – возраст, образование, семейное положение и т. д.
@@ -97,3 +101,11 @@
   Решить задачу классификации наличия болезни сердца у пациентов, применяя базовые ансамблевые методы. Целевая переменная – наличие болезни сердца (HeartDisease), принимает значения 0 или 1 в зависимости от отсутствия или наличия болезни соответственно.
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/9_Ensemble_methods/ensemble_methods.ipynb)
+
+### Сlustering
+  
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/10_Clustering/clustering.ipynb)
+  
+### Cross-validation
+
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/11_Cross-validation/cross-validation.ipynb)
