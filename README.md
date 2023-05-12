@@ -45,7 +45,7 @@
   
   [9. Ensemble_methods](#ensemble_methods)
   
-  [10. Сlustering](#clustering)
+  [10. Clustering](#clustering)
   
   [11. Cross-validation](#cross-validation)
   
@@ -102,7 +102,7 @@
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/9_Ensemble_methods/ensemble_methods.ipynb)
 
-### Сlustering
+### Clustering
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/10_Clustering/clustering.ipynb)
   
