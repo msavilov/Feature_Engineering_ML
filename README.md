@@ -47,7 +47,7 @@
   
   [10. Clustering](#clustering)
   
-  [11. Cross-validation](#cross-validation)
+  [11. Improving_models](#improving_models)
   
 ### Classification
   Решение задачи классификации физических лиц по уровню дохода. Данные для обучения модели хранятся в файле adult.csv.
@@ -103,9 +103,14 @@
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/9_Ensemble_methods/ensemble_methods.ipynb)
 
 ### Clustering
+ 
+  Cократить число цветов в палитре изображения. Картинку для выполнения работы можно выбрать любую, главное условие – наличие на ней разных цветов, для того, чтобы результат работы моделей был заметен.
+  Для выполнения работы необходимо выделить кластеры в пространстве RGB, объекты соответствуют пикселям изображения. После выделения кластеров все пиксели, отнесенные в один кластер, заполняются одним цветом. Цвет – центроид соответствующего кластера.
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/10_Clustering/clustering.ipynb)
   
-### Cross-validation
+### Improving_models
 
-  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/11_Cross-validation/cross-validation.ipynb)
+  Решить задачу классификации наличия болезни сердца у пациентов наиболее эффективно, используя на практике алгоритмы по автоматической оптимизации параметров моделей машинного обучения. Данные для обучения моделей необходимо загрузить самостоятельно с сайта. Целевая переменная – наличие болезни сердца (HeartDisease). Она принимает значения 0 или 1 в зависимости от отсутствия или наличия болезни соответственно. 
+  
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/11_Impoving_models/improving_models.ipynb)
