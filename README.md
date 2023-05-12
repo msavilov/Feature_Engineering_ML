@@ -57,7 +57,7 @@
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/1_Classification/classification.ipynb)
  
 ### Loss_function_and_optimization
-  Реализация логистической регрессии, без использования метода LogisticRegression из библиотеки на основе датасета с ирисами
+  Реализация логистической регрессии без использования метода LogisticRegression из библиотеки на основе датасета с ирисами
 Реализация метода градиентного спуска, Root Mean Square Propagation, Nesterov–accelerated Adaptive Moment Estimation. 
 
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/2_Loss_function_and_optimization/loss_function_and_optimization.ipynb)
