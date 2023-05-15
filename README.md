@@ -1,5 +1,5 @@
 # Feature_Engineering_ML
-  ![](https://img.shields.io/badge/Project%20status%20-Done-green)
+  ![](https://img.shields.io/badge/Project%20status%20-In%20progress-green)
 
 ## Оглавление
 
@@ -49,6 +49,8 @@
   [10. Clustering](#clustering)
   
   [11. Improving_models](#improving_models)
+  
+  [12. Final_project](#final_project)
   
 ### Classification
   Решение задачи классификации физических лиц по уровню дохода. Данные для обучения модели хранятся в файле adult.csv.
@@ -115,3 +117,10 @@
   Решение задачи классификации наличия болезни сердца у пациентов наиболее эффективно, используя на практике алгоритмы по автоматической оптимизации параметров моделей машинного обучения. 
   
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/11_Impoving_models/improving_models.ipynb)
+  
+### Final_project
+  ![](https://img.shields.io/badge/Project%20status%20-In%20progress-green)
+  
+  Итоговая работа по модулю: решение задачи классификации
+  
+  [Решение]()
