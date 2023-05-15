@@ -1,4 +1,5 @@
 # Feature_Engineering_ML
+  ![](https://img.shields.io/badge/Project%20status%20-Done-green)
 
 ## Оглавление
 
@@ -110,8 +111,6 @@
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/10_Clustering/clustering.ipynb)
   
 ### Improving_models
-
-  ![](https://img.shields.io/badge/Project%20status%20-in%20process-green)
 
   Решение задачи классификации наличия болезни сердца у пациентов наиболее эффективно, используя на практике алгоритмы по автоматической оптимизации параметров моделей машинного обучения. 
   
