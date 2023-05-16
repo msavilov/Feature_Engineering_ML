@@ -1,5 +1,5 @@
 # Feature_Engineering_ML
-  ![](https://img.shields.io/badge/Project%20status%20-In%20progress-green)
+  ![](https://img.shields.io/badge/Project%20status-Done-green)
 
 ## Оглавление
 
@@ -119,7 +119,6 @@
   [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/11_Impoving_models/improving_models.ipynb)
   
 ### Final_project
-  ![](https://img.shields.io/badge/Project%20status%20-In%20progress-green)
   
   Итоговая работа по модулю: решение задачи классификации
   
