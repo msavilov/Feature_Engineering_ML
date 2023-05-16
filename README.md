@@ -123,4 +123,4 @@
   
   Итоговая работа по модулю: решение задачи классификации
   
-  [Решение]()
+  [Решение](https://github.com/msavilov/Feature_Engineering_ML/blob/main/12_Final_project/final_project.ipynb)
